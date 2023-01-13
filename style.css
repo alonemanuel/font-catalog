@@ -1,0 +1,13 @@
+@font-face {
+    font-family: VC David;
+    src: url(assets/fonts/david_bezalel/VC_david-Regular.otf);
+}
+
+body {
+    font-size: 18px;
+}
+
+.font-name {
+    font-size: 40px;
+    color: red;
+}
